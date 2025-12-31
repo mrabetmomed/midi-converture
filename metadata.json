@@ -1,0 +1,5 @@
+{
+  "name": "PixelSynth: Image to MIDI Converter",
+  "description": "Convert PNG images into playable MIDI music by mapping visual data to audio notes using the Web Audio API.",
+  "requestFramePermissions": []
+}
